@@ -1,4 +1,4 @@
-﻿/* 1. Crie um programa com 2 valores do tipo **`double`** já declarados ****que retorne:
+﻿/* 1. Crie um programa com 2 valores do tipo double já declarados que retorne:
     -A soma entre esses dois números;
     -A subtração entre os dois números;
     -A multiplicação entre os dois números;
