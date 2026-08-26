@@ -1,0 +1,14 @@
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\net10.0\ExerciciosBasicos.exe
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\net10.0\ExerciciosBasicos.deps.json
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\net10.0\ExerciciosBasicos.runtimeconfig.json
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\net10.0\ExerciciosBasicos.dll
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\net10.0\ExerciciosBasicos.pdb
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.AssemblyInfoInputs.cache
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.AssemblyInfo.cs
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.dll
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\refint\ExerciciosBasicos.dll
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.pdb
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.genruntimeconfig.cache
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ref\ExerciciosBasicos.dll
