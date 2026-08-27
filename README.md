@@ -15,11 +15,7 @@ Este é apenas o começo! 🚀
 * **C#**
 * **.NET**
 * **Visual Studio**
-
-## 📌 Status
-
-🟢 Em desenvolvimento — novos exercícios serão adicionados conforme avanço nos estudos.
-
+  
 ---
 
 💻 **Aprendendo, praticando e evoluindo em C#.** 🚀
