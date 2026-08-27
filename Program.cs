@@ -1,3 +1,3 @@
 ﻿using ExerciciosBasicos.Exercicios;
 
-Exercicio1.Executar();
+Exercicio3.Executar();

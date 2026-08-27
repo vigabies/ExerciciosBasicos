@@ -12,3 +12,4 @@ C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0
 C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.pdb
 C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.genruntimeconfig.cache
 C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ref\ExerciciosBasicos.dll
+C:\Users\DoQR\source\repos\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\net10.0\ExerciciosBasicos.sourcelink.json
